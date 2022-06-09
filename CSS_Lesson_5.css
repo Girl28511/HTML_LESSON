@@ -1,0 +1,15 @@
+@keyframes rainbow {
+    0% {background-color: red;} 
+    20% {background-color: orange;} 
+    37% {background-color: yellow;} 
+    57% {background-color: green;} 
+    77% {background-color: blue;} 
+    100% {background-color: purple;} 
+    }
+    
+      
+     #rainbow { 
+    animation-name: rainbow;
+    animation-duration: 20s;
+    animation-iteration-count: 2;
+      }
